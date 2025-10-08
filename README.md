@@ -13,11 +13,11 @@ The content is primarily based on my studies from online courses and playlists. 
 Here you'll find a structured collection of my notes from each lecture or topic I cover.
 
 * **Lecture 01: Introduction to Fine-Tuning**
-    * **File:** [`lecture-01-introduction-to-finetuning.md`](./lecture-01-introduction-to-finetuning.md)
+    * **File:** [`lecture-01-introduction-to-finetuning.md`](https://github.com/ChidambaraRaju/llm-finetuning/blob/main/01_introduction_to_finetuning.md)
     * **Topics Covered:** The Transformer architecture, BERT vs. GPT, and the 3 major stages of LLM training (Pre-training, SFT, Alignment).
 
 * **Lecture 02: What is LLM Fine-Tuning?**
-    * **File:** [`lecture-02-what-is-llm-finetuning.md`](./lecture-02-what-is-llm-finetuning.md)
+    * **File:** [`lecture-02-what-is-llm-finetuning.md`](https://github.com/ChidambaraRaju/llm-finetuning/blob/main/02_what_is_llm_finetuning.md)
     * **Topics Covered:** Transfer Learning vs. Fine-Tuning, use cases, advantages/disadvantages, and an overview of popular fine-tuning frameworks.
 
 * *More notes and code to come...*
