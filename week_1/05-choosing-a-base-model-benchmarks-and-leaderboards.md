@@ -45,6 +45,7 @@ Therefore, you must choose a base model that is *already* strong in your target 
 ### What is a Benchmark?
 
 A benchmark is a standardized test. Models are given a set of questions, and their outputs are scored to compare performance.
+
 ![benchmark](../images/llm-benchmark-landscape.jpeg)
 * **Static Benchmarks:** These test knowledge and reasoning against reference answers. Examples include:
     * **MMLU:** Measures broad academic knowledge.
