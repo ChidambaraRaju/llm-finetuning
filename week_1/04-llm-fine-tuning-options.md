@@ -14,7 +14,7 @@ Every fine-tuning project is shaped by three key layers:
 
 ### Decision Layer 1: Model Access
 
-This is the first and most important choice: what *kind* of model are you fine-tuning?
+This is the first and most important choice: what *kind* of model are you fine tuning?
 
 #### Frontier Models (API-Based)
 
